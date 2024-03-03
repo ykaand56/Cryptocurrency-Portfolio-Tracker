@@ -1,0 +1,1 @@
+The mobile payment application supports users to make payments and transfers via mobile phones, including QR code payment, bank card binding, bill inquiry, etc., providing secure and convenient payment services.

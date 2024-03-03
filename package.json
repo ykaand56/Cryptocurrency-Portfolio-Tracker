@@ -1,0 +1,26 @@
+{
+"name": "1ortfolio-acker",
+"version": "1.0.0",
+"description": "This application enables users to track their cryptocurrency investments, monitor market prices, and analyze portfolio performance, empowering them to make informed decisions in the volatile crypto market.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/ykaand56/Cryptocurrency-Portfolio-Tracker.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "ykaand56",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
